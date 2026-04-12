@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-04-12T06:11:31.951885",
+  "daily_trend": {
+    "keyword": "世界模型",
+    "source": "今日新闻高频词"
+  },
+  "news": [],
+  "frontier_knowledge": [
+    {
+      "concept": "约束工程",
+      "description": "为Agent套上流程管控、并发调度、验证纠错三层纪律框架",
+      "url": "#"
+    }
+  ]
+}
